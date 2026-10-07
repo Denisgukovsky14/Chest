@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Chest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA270535-4A20-4691-BF14-B684A27849B7}|Chest\\Chest.csproj|c:\\users\\admin\\source\\repos\\chest\\chest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA270535-4A20-4691-BF14-B684A27849B7}|Chest\\Chest.csproj|solutionrelative:chest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e3fb24c2-2e84-3146-a5f8-bc25bbc68f8a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Chest\\Chest\\Program.cs",
+              "RelativeDocumentMoniker": "Chest\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Chest\\Chest\\Program.cs",
+              "RelativeToolTip": "Chest\\Program.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAIwGABAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:02:19.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

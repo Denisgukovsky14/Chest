@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Chest\Chest\bin\Debug\Chest.exe.config
+C:\Users\Admin\source\repos\Chest\Chest\bin\Debug\Chest.exe
+C:\Users\Admin\source\repos\Chest\Chest\bin\Debug\Chest.pdb
+C:\Users\Admin\source\repos\Chest\Chest\obj\Debug\Chest.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Chest\Chest\obj\Debug\Chest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Chest\Chest\obj\Debug\Chest.exe
+C:\Users\Admin\source\repos\Chest\Chest\obj\Debug\Chest.pdb
+C:\Users\Admin\source\repos\Chest\Chest\obj\Debug\Chest.exe.config
